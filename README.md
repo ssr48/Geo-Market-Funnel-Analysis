@@ -1,6 +1,6 @@
 # Geo-Market-Analysis
 ## Read Me 
-This repository provides the code and an an analytical tool in the form of a Tableau dashboard to analyze the enrollment funnel at geographic, First Source Code, high schools, and academic level. It captures data for enrollments in Fall 2017, Fall 2018, and Fall 2019 Freshmen from the US(1).
+This repository provides the code and an an analytical tool in the form of a [Tableau dashboard](https://public.tableau.com/profile/shashank.rai7459#!/vizhome/GeoMarketFunnelAnalysis/ReadMe) to analyze the enrollment funnel at geographic, First Source Code, high schools, and academic level. It captures data for enrollments in Fall 2017, Fall 2018, and Fall 2019 Freshmen from the US(1).
 
 ## Code
 The code in python (Jupyter Notebooks) is used to clean the data, output descriptive statistics, and set up the data for Tableau Dashboard
