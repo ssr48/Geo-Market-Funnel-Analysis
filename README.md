@@ -28,3 +28,11 @@ The Distributions tab displays the distribution of all inquiries by the ACT Scor
     2019 candidates.  
     4. Date of entry to college is assumed be August 1st of the application year. Age of entry and time between contact and entry is calculated based on the date of
     entry. 
+
+Below are some screenshots from the linked dashboard
+
+Screen Shot 2021-04-04 at 01.33.22![image](https://user-images.githubusercontent.com/25066236/113500822-b7161a00-94e6-11eb-9d5e-c94e371d2e0e.png)
+
+Screen Shot 2021-04-04 at 01.35.30![image](https://user-images.githubusercontent.com/25066236/113500831-c9905380-94e6-11eb-9d08-a94345741495.png)
+
+
